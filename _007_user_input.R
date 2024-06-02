@@ -1,7 +1,7 @@
 # Filename: _007_user_input.R
 # Title: Different ways to get user input in R
-# Author: Raghava | GitHub : @raghavtwenty
-# Date Created: July 1, 2024 | Last Updated: July 1, 2024
+# Author: Raghava | GitHub: @raghavtwenty
+# Date Created: June 1, 2024 | Last Updated: June 1, 2024
 # Language: R | Version: 4.4.0
 
 # Command line arguments
