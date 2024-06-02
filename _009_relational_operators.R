@@ -1,7 +1,7 @@
-# Filename: _008_relational_operators.R
+# Filename: _009_relational_operators.R
 # Title: List of all relational operators in R
-# Author: Raghava | GitHub : @raghavtwenty
-# Date Created: July 1, 2023 | Last Updated: July 1, 2024
+# Author: Raghava | GitHub: @raghavtwenty
+# Date Created: June 1, 2023 | Last Updated: June 1, 2024
 # Language: R | Version: 4.4.0
 
 # Get the user input
