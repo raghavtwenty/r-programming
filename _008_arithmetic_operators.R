@@ -1,7 +1,7 @@
 # Filename: _008_arithmetic_operators
 # Title: List of all arithmetic operators in R
-# Author: Raghava | GitHub : @raghavtwenty
-# Date Created: July 1, 2023 | Last Updated: July 1, 2024
+# Author: Raghava | GitHub: @raghavtwenty
+# Date Created: June 1, 2023 | Last Updated: June 1, 2024
 # Language: R | Version: 4.4.0
 
 # Get the user input
