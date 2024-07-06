@@ -14,7 +14,7 @@ info <- data.frame(
     physics = c(42, 76, 43, 79, 46, 70, 65, 68)
 )
 
-# Print the updated dataframe
+# Print the dataframe
 print(info)
 
 # Customize pairs plot with colors and symbols
