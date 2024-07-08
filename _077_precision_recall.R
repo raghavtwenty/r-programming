@@ -1,7 +1,7 @@
-# Filename: _077_roc.R
+# Filename: _077_precision_recall.R
 # Title: Precision Recall curve in R
 # Author: Raghava | GitHub: @raghavtwenty
-# Date Created: July 7, 2024 | Last Updated: July 7, 2024
+# Date Created: July 7, 2024 | Last Updated: July 8, 2024
 # Language: R | Version: 4.4.0
 
 # Load necessary libraries
